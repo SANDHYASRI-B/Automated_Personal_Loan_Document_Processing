@@ -5,7 +5,6 @@ import cv2
 import numpy as np
 import re
 import streamlit as st
-
 from PIL import Image
 
 # Function to preprocess the image
